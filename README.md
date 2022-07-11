@@ -6,14 +6,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://connectedh-frontend.herokuapp.com/">
     <h1 align="center">get_github_info</h1>
-  </a>
 
   <p align="center">
-    <a href="https://github.com/ankit5577/connectedh/issues">Report Bug</a>
+    <a href="https://github.com/ankit5577/get_github_info/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ankit5577/connectedh/issues">Request Feature</a>
+    <a href="https://github.com/ankit5577/get_github_info/issues">Request Feature</a>
   </p>
 </p>
 
