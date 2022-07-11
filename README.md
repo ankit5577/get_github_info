@@ -69,7 +69,7 @@ This is an example of how to list things you need to use the software and how to
    ```bash
    $ git clone https://github.com/ankit5577/get_github_info.git
    ```
-2. run ```python3 `file_name` ``` in both frontend and main folder.
+2. run ```python3 main.py``` in both frontend and main folder.
 
 <!-- CONTRIBUTING -->
 ## Contributing
